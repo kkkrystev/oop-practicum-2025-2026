@@ -1,8 +1,8 @@
-\# Практикум 02 - 23.02.2026
+# Практикум 02 - 23.02.2026
 
 
 
-\## Седмичен \[Quiz](https://wayground.com/admin/quiz/699707a1f9cbe8722c489c99?fbclid=IwY2xjawQIz3xleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeskobWsaCaLhYUbXlbfa2yRpFGf6ERM2IaExjdYdzCAp0iSAqXTMI\_DgrQhs\_aem\_lq9WzAee9hJnXmzr9W2XYQ)
+## Седмичен \[Quiz](https://wayground.com/admin/quiz/699707a1f9cbe8722c489c99?fbclid=IwY2xjawQIz3xleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeskobWsaCaLhYUbXlbfa2yRpFGf6ERM2IaExjdYdzCAp0iSAqXTMI\_DgrQhs\_aem\_lq9WzAee9hJnXmzr9W2XYQ)
 
 
 
