@@ -1,8 +1,6 @@
 # Практикум 02 - 23.02.2026
 
-## Седмичен [Quiz](https://wayground.com/admin/quiz/699707a1f9cbe8722c489c99?fbclid=IwY2xjawQIz3xleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEeskobWsaCaLhYUbXlbfa2yRpFGf6ERM2IaExjdYdzCAp0iSAqXTMI_DgrQhs_aem_lq9WzAee9hJnXmzr9W2XYQ)
-
-## Задачи - условия
+## Задачи
 
 *Обособете всяка задача, нейните структури и функции в собствен `namespace` с подходящо име. Препоръчително е имплементацията на всяка задача да се тества в `main()`.*
 
