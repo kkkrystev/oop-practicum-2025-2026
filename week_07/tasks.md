@@ -1,38 +1,10 @@
 # Задачи - 31.03.2026
 
-### *Общи указания*
+## Задача 1 - MyString 
 
-- *Да не се допуска изтичане на памет*
-- *Да се използват помощни функции: `copyFrom`, `moveFrom`, `free`, `resize`*
-- *Да се спазва коректна move семантика*
+*Live coding. Реализация на copy и move семантики*
 
-## Задача 1
-
-Да се реализира клас `Text`, който пази текст в динамична памет:
-
-```cpp
-char* data;
-```
-
-### Изисквания
-Да се реализират:
-- Default constructor
-- Конструктор от C-string
-- Destructor
-- Copy constructor
-- Copy assignment operator
-- Move constructor
-- Move assignment operator
-
-### Методи
-- `const char* c_str() const`
-- `size_t size() const`
-- `void print() const`
-
-### Уточнения
-- При копиране да се създава нов буфер и да се копира съдържанието
-- При move да се прехвърля указателят без копиране
-- Преместеният обект да остава във валидно състояние
+*Пълна реализация на задачата ще намерите [тук](https://github.com/kkkrystev/oop-practicum-2025-2026/tree/main/week_08/tasks_solutions/task-01_mystring).*
 
 ## Задача 2 - Notebook
 
