@@ -2,7 +2,7 @@
 
 ## Задача 1 - MyString
 
-Live coding. Предефиниране на оператори.
+*Live coding. Предефиниране на оператори.*
 
 ## Задача 2 - Arithmetic progression
 
