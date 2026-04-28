@@ -23,13 +23,6 @@ int main()
 }
 ```
 
-Отговор:
-int
-other
-other
-
----
-
 ## 2. TypeList
 
 ```cpp
@@ -65,10 +58,6 @@ int main()
 }
 ```
 
-Забележка: contains<10>() няма да се компилира.
-
----
-
 ## 3. tuple пример
 
 ```cpp
@@ -77,8 +66,6 @@ int main()
     std::cout << std::get<1>(t) << "\n"; // 3.14
     std::cout << std::get<2>(t) << "\n"; // hello
 ```
-
----
 
 ## 4. tuple грешки
 
@@ -92,8 +79,6 @@ int main()
     std::tuple<int, double, std::string> a5(10, "BA", "AB");
 }
 ```
-
----
 
 ## 5. make_tuple vs tie
 
@@ -119,8 +104,6 @@ int main()
 }
 ```
 
----
-
 ## 6. tuple от references
 
 ```cpp
@@ -137,8 +120,6 @@ int main()
     std::cout << a << " " << b << "\n";
 }
 ```
-
----
 
 ## 7. tuple_cat
 
