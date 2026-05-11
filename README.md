@@ -7,14 +7,19 @@
 | Седмица | Тема № | Теми | Събитие |
 | ------- | ------ | -----| --------|
 | 01      | -      | -    | *Преговор на важни теми от "Увод в програмирането".* |
-| 02      | 01     | Въведение в ООП. Основни принципи в ООП. Struct. Enum. Enum class Namespaces. | |
-| 03      | 02     | Abstraction & Encapsulation. Class. Access modifiers. Constructor. Default constructor. Член-функции. | |
-| 04      | 03     | Работа с потоци. Писане във и четене от файлове. | |
-| 05      | 04     | Разделна компилация. Default. Delete. Static. SOLID. | |
-| 06      | 05     | Value semantics. Rule of Three. | |
-| 07      | 06     | Move semantics. Rule of Five. | |
-| 08      | 07     | Предефиниране на оператори. Приятелски класове и функции. | |
+| 02      | 01     | Въведение в ООП. Основни принципи в ООП. Struct. Enum. Enum class Namespaces. | - |
+| 03      | 02     | Abstraction & Encapsulation. Class. Access modifiers. Constructor. Default constructor. Член-функции. | - |
+| 04      | 03     | Работа с потоци. Писане във и четене от файлове. | - |
+| 05      | 04     | Разделна компилация. Default. Delete. Static. SOLID. | - |
+| 06      | 05     | Value semantics. Rule of Three. | - |
+| 07      | 06     | Move semantics. Rule of Five. | - |
+| 08      | 07     | Предефиниране на оператори. Приятелски класове и функции. | - |
 | 09      | -      | -    | *Великденски празници. Пропуснато занятие.* |
 | 10      | 08     | Rule of Zero. Smart Pointers. STL контейнери и алгоритми. | *Извънреден практикум (консултация) за подготовка за първо контролно.* |
-| 11      | 09     | Templates. Template specilization. SFINAE. Concepts. Variadic templates. | | 
-| 12      | 10     | OOP Design Basics. Dependencies. Composition and aggregation. std::variant. | |
+| 11      | 09     | Templates. Template specilization. SFINAE. Concepts. Variadic templates. | - | 
+| 12      | 10     | OOP Design Basics. Dependencies. Composition and aggregation. std::variant. | - |
+| 13      | 11     | Наследяване. Видове наследяване. Object slicing. Конструктори и деструктори при наследяване. Copy и move семантики при наследяване. | - |
+| 14      | 12     | - | - |
+| 15      | 13     | - | - |
+| 16      | 14     | - | - |
+| 17      | 15     | - | - |
