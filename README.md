@@ -19,7 +19,7 @@
 | 11      | 09     | Templates. Template specilization. SFINAE. Concepts. Variadic templates. | - | 
 | 12      | 10     | OOP Design Basics. Dependencies. Composition and aggregation. std::variant. | - |
 | 13      | 11     | Наследяване. Видове наследяване. Object slicing. Конструктори и деструктори при наследяване. Copy и move семантики при наследяване. | - |
-| 14      | 12     | - | - |
+| 14      | 12     | Обработка на грешки. Изключения. Обработка на изключения. Видове изключения. Изключения в конструктори и деструктори. Exception safety guarantees. | - |
 | 15      | 13     | - | - |
 | 16      | 14     | - | - |
 | 17      | 15     | - | - |
