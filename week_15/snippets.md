@@ -78,38 +78,6 @@ int main() {
 ```
 ## Snippet 03
 
-```cpp
-#include <iostream>
-
-class A {
-
-};
-
-class B : public A {
-
-};
-
-class C : virtual public A {
-
-};
-
-void func(A* ptr) {
-    std::cout << "A ptr: " << ptr << '\n';
-}
-
-int main() {
-    B b;
-    C c;
-
-    std::cout << "B ptr: " << &b << '\n';
-    func(&b);
-
-    std::cout << "C ptr: " << &c << '\n';
-    func(&c);
-}
-```
-## Snippet 04
-
 Какво ще бъде изведено на стандартния изход? Има ли проблем със следния snippet? Как бихте го поправили?
 
 ```cpp
@@ -143,7 +111,7 @@ int main() {
     delete ptr;
 }
 ```
-## Snippet 05
+## Snippet 04
 
 Какво ще бъде изведено на стандартния изход?
 
@@ -172,7 +140,7 @@ int main() {
     Derived d;
 }
 ```
-## Snippet 06
+## Snippet 05
 
 Какво ще бъде изведено на стандартния изход?
 
@@ -203,7 +171,7 @@ int main() {
     delete ptr;
 }
 ```
-## Snippet 07
+## Snippet 06
 
 Има ли проблем със следния snippet?
 
