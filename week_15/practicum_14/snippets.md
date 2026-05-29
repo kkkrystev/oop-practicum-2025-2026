@@ -207,6 +207,34 @@ int main() {
 
 ## Snippet 08
 
+Какво ще се изведе на стандартния изход?
+
+```cpp
+#include <print>
+
+struct A {
+    A(int x) { std::print("A({})\n", x); }
+};
+
+struct B : virtual public A {
+    B() : A(1) { std::print("B()\n"); }
+};
+
+struct C : public A {
+    C() : A(2) { std::print("C()\n"); }
+};
+
+struct D : public B, public C {
+    D() : B::A(3), B(), C() { std::print("D()\n"); }
+};
+
+int main() {
+    D obj;
+}
+```
+
+## Snippet 09
+
 Какво ще се изведе на стандартния изход? *Разиграйте няколко случая, като смените конструктора, който хвърля изключението.*
 
 ```cpp
